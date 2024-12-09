@@ -1,0 +1,51 @@
+.hi{
+    background: rgb(179,48,33);
+background: linear-gradient(90deg, rgba(179,48,33,1) 0%, rgba(9,121,26,1) 35%, rgba(0,212,255,1) 100%);
+/* From https://css.glass */
+background: rgba(255, 255, 255, 0.2);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(1.8px);
+-webkit-backdrop-filter: blur(1.8px);
+border: 1px solid rgba(255, 255, 255, 0.3);
+}
+body{
+    background: rgb(179,48,33);
+background: linear-gradient(90deg, rgba(179,48,33,1) 0%, rgba(9,121,26,1) 35%, rgba(0,212,255,1) 100%);
+}
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 600;
+    font-style: normal;
+  }
+  .ki{
+    top: 10px;
+    position: relative;
+    display: flex;
+  }
+  #he{
+    top: 10px;
+    position: relative;
+    display: flex;
+  }
+  #am{
+    top: 20px;
+    position: relative;
+   
+
+  }
+  .hi {
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .oo{
+        /* From https://css.glass */
+background: rgba(255, 255, 255, 0.12);
+border-radius: 16px;
+box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+backdrop-filter: blur(1.2px);
+-webkit-backdrop-filter: blur(1.2px);
+border: 1px solid rgba(255, 255, 255, 0.96);
+
+  }
